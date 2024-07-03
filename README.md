@@ -2,6 +2,8 @@
 <h3 align="center">AI Engineer</h3>
 <img align="right" alt="error_icon" width="300" src="https://i.pinimg.com/originals/e1/cf/5c/e1cf5ce61b6d5a8d06a979ab63d3faaa.gif">
 
+- 🔭 I’m currently working on **BIAC & create DL models**
+  
 - 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 Most of my projects are available at [https://www.kaggle.com/mohamedsameh0410](https://www.kaggle.com/mohamedsameh0410)
