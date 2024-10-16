@@ -3,7 +3,7 @@
 <img align="right" alt="error_icon" width="300" src="https://i.pinimg.com/originals/e1/cf/5c/e1cf5ce61b6d5a8d06a979ab63d3faaa.gif">
 
   
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Natural Language Processing(NLP)**
 
 - 👨‍💻 Most of my projects are available at [https://www.kaggle.com/mohamedsameh0410](https://www.kaggle.com/mohamedsameh0410)
 
