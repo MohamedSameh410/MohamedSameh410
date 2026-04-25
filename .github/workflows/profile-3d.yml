@@ -44,7 +44,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           # Replace YOUR_USERNAME with your GitHub username
-          USERNAME: YOUR_USERNAME
+          USERNAME: MohamedSameh410
 
       - name: Commit and push
         run: |
