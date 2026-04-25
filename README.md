@@ -1,26 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mohammed Sameh</h1>
-<h3 align="center">AI Engineer</h3>
-<img align="right" alt="error_icon" width="300" src="https://i.pinimg.com/originals/e1/cf/5c/e1cf5ce61b6d5a8d06a979ab63d3faaa.gif">
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Mohamed%20Sameh&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20Engineer%20%7C%20AI%20Agents%20%7C%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+LLM+Apps+%7C+RAG+%7C+AI+Agents;LangChain+%7C+OpenAI+%7C+Gemini+%7C+HuggingFace;MLOps+%7C+Model+Deployment+%7C+Production+AI;AWS+%26+Azure+Cloud+AI+Engineer;From+Idea+%E2%86%92+Production+AI+Systems)](https://git.io/typing-svg)
+  <p align="center">
+    <a href="https://github.com/MohamedSameh410"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:mohamedsameh0410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://komarev.com/ghpvc/?username=MohamedSameh410&style=for-the-badge&color=7C3AED&label=VIEWS" alt="" />
+    <img src="https://img.shields.io/github/stars/MohamedSameh410?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="" />
+  </p>
+</div>
 
-<h3 align="left">Summary</h3>
-I hold a degree in Computers and Artificial Intelligence. My work focuses on machine learning, computer vision, Gen AI, and MLOps. I prefer deploying models into production over running isolated experiments in notebooks.
 
-- 🌱 I’m currently learning **Generative AI & MLOps**
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Skills & Tools
+</h2>
 
-- 👨‍💻 I am a Kaggle Master. You could take a look at my work [there](https://www.kaggle.com/mohamedsameh0410)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgres,dynamodb,eclipse,pytorch,opencv,tensorflow,linux,git,github,docker,fastapi,flask,aws,azure,nginx,postman,&perline=9" />
+</div>
 
-- 💬 Ask me about **anything related to AI**
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Contributions
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
 
-- 📫 My Email: **mohamedsameh0410@gmail.com**
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedSameh410&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedSameh410&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedSameh410&theme=tokyonight" width="33%" />
+</div>
 
-<h3 align="left">How to reach me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-sameh-47b85324a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-sameh-47b85324a/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mohamedsameh0410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedsameh0410" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100061877072735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100061877072735" height="30" width="40" /></a>
+
+<h2 align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  GitHub Activity
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedSameh410/MohamedSameh410/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedSameh410/MohamedSameh410/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedSameh410/MohamedSameh410/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedSameh410&theme=tokyonight" width="100%" />
+
+<img src="https://raw.githubusercontent.com/MohamedSameh410/MohamedSameh410/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+<p align="center">
+  <i>Thanks for visiting, let's build something intelligent together.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h4 align="left">Feel free to reach out, and let’s tackle some real-world challenges with AI.</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
