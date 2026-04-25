@@ -47,7 +47,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedSameh410/MohamedSameh410/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedSameh410&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedSameh410&theme=github_dark" width="100%" />
 
 <img src="https://raw.githubusercontent.com/MohamedSameh410/MohamedSameh410/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
