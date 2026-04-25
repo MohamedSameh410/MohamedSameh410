@@ -35,9 +35,7 @@
 
 
 <h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub Activity
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
 <div align="center">
