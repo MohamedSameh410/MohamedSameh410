@@ -28,9 +28,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedSameh410&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedSameh410&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedSameh410&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedSameh410&theme=github_dark" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedSameh410&theme=github_dark" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedSameh410&theme=github_dark" width="33%" />
 </div>
 
 
