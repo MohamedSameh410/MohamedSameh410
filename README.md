@@ -5,6 +5,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+LLM+Apps+%7C+RAG+%7C+AI+Agents;LangChain+%7C+OpenAI+%7C+Gemini+%7C+HuggingFace;MLOps+%7C+Model+Deployment+%7C+Production+AI;AWS+%26+Azure+Cloud+AI+Engineer;From+Idea+%E2%86%92+Production+AI+Systems)](https://git.io/typing-svg)
   <p align="center">
     <a href="https://github.com/MohamedSameh410"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/mohamed-sameh410/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
     <a href="mailto:mohamedsameh0410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <img src="https://komarev.com/ghpvc/?username=MohamedSameh410&style=for-the-badge&color=7C3AED&label=VIEWS" alt="" />
     <img src="https://img.shields.io/github/stars/MohamedSameh410?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="" />
